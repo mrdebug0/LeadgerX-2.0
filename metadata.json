@@ -1,0 +1,6 @@
+{
+  "name": "LeadgerX",
+  "description": "AI-assisted business management SaaS for retail stores, kirana, and growing businesses with smart billing, customer udhaar tracking, OCR scan, and voice entry.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
